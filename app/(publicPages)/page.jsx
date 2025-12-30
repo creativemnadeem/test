@@ -30,7 +30,7 @@ export default function Page() {
                 </div>
                 <h1 className="mt-2 text-5xl/15 md:text-[64px]/19 font-semibold max-w-2xl">
                     Every startup begins with{" "}
-                    <span className="bg-gradient-to-r from-[#923FEF] dark:from-[#C99DFF] to-[#C35DE8] dark:to-[#E1C9FF] bg-clip-text text-transparent">spark</span>
+                    <span className="bg-gradient-to-r from-[#923FEF] dark:from-[#C99DFF] to-[#C35DE8] dark:to-[#E1C9FF] bg-clip-text text-transparent">1n1Tech</span>
                 </h1>
                 <p className="text-base dark:text-slate-300 max-w-lg mt-2">
                     Our latest thoughts, trends, and tools, written to help you learn, build, and grow faster.

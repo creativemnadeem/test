@@ -47,12 +47,7 @@ export default function Navbar() {
             </div>
             <div className="flex items-center gap-4">
                 <ThemeToggle />
-                {/* <button className="hidden md:block hover:bg-slate-100 dark:hover:bg-purple-950 transition px-4 py-2 border border-purple-600 rounded-md">
-                    Sign in
-                </button>
-                <button className="hidden md:block px-4 py-2 bg-purple-600 hover:bg-purple-700 transition text-white rounded-md">
-                    Get started
-                </button> */}
+                
                 <button onClick={() => setOpenMobileMenu(!openMobileMenu)} className="md:hidden">
                     <MenuIcon size={26} className="active:scale-90 transition" />
                 </button>
